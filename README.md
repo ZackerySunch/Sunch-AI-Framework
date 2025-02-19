@@ -34,8 +34,9 @@ Sunch AI Framework 是一個受 **Sunch AI Protection License (SAPL)** 保護的
 
 若您希望下載本技術框架，可透過 GitHub Clone：
 
+```bash
 git clone https://github.com/ZackerySunch/Sunch-AI-Framework.git
-
+```
 
 ## 🔹 版本 (Versioning)
 
