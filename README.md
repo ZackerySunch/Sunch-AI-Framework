@@ -11,7 +11,7 @@ Sunch AI Framework 是一個受 **Sunch AI Protection License (SAPL)** 保護的
 - **Decision AI**（決策 AI，中控系統）
 - **Expert AI**（專家 AI，多模組技術）
 - **RAG（檢索增強生成）**
-- **GPU 資源調度技術**
+- **GPU 資源調度與優化技術**
 
 ## 🔹 授權條款 (License & Restrictions)
 
@@ -30,7 +30,7 @@ Sunch AI Framework 是一個受 **Sunch AI Protection License (SAPL)** 保護的
 
 ## 🔹 如何使用 (How to Use)
 
-本專案目前僅提供技術概念，尚未開放完整程式碼。
+本專案目前僅提供技術概念，尚未開放完整程式碼或正式版本。
 
 若您希望下載本技術框架，可透過 GitHub Clone：
 
@@ -50,11 +50,11 @@ git clone https://github.com/ZackerySunch/Sunch-AI-Framework.git
 
 - **2.0**: 增加 Expert AI 競爭 & 合作機制
 - **3.0**: 支援多 GPU 部署與 AI 資源調度
-- **4.0**: 商業 API & Admin 控制介面
+- **4.0**: 商業 API & Admin 管理控制介面
 
 ## 🔹 聯絡方式 (Contact)
 
-如果您希望獲得 **商業授權** 或有任何問題，請聯絡： 📧 \*\*Email: \*\*[**zackeryjingle123@gmail.com**](mailto\:zackeryjingle123@gmail.com)
+如果您希望獲得 **商業授權** 或有任何問題，請聯絡： 📧 **Email: [zackeryjingle123@gmail.com](mailto:zackeryjingle123@gmail.com)**
 
 ## 🚀 參與開發 (Contributing)
 
@@ -63,4 +63,3 @@ git clone https://github.com/ZackerySunch/Sunch-AI-Framework.git
 ---
 
 📢 **⚠ 本技術已於 2025 年 2 月 19 日公開，任何未經授權的專利申請將構成現有技術 (Prior Art)，可依法無效化！⚠**
-
