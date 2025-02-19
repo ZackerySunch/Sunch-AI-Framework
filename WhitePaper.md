@@ -146,3 +146,7 @@ SUNCH HUB AI 採用 **模組化 AI 架構**，結合以下技術元素：
 Sunch AI 透過創新的 **Decision AI + Expert AI** 架構，以及 **RAG + AI 競爭機制**，提供更靈活、高效的 AI 模型。相較於 GPT-4o 和 Google Gemini，Sunch AI 具備 **更高的隱私保護、更低的長期成本、更高的可擴展性**。然而，在技術落地與市場推廣上，仍需克服企業適應問題與初期建置成本的挑戰。
 
 📌 **目標：3\~5 年內打造可超越 GPT-4o 的 AI 生態系統！ 🚀🔥**
+
+📢 **法律聲明**：  
+本技術受 **Sunch AI Protection License (SAPL)** 保護，任何未經授權的商業使用、專利申請或未經許可的散佈，將依法追究法律責任。  
+所有使用者應遵守 [LICENSE](./LICENSE) 條款，違者將承擔相應法律後果。
