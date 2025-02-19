@@ -148,6 +148,6 @@ Sunch AI 透過創新的 **Decision AI + Expert AI** 架構，以及 **RAG + AI 
 
 📌 **目標：3\~5 年內打造可超越 GPT-4o 的 AI 生態系統！** 🚀🔥
 
-📩 **聯絡方式** 如果您對 Sunch AI Framework 有興趣，或希望獲得商業授權，請聯絡： 📧 Email: [**zackeryjingle123@example.com**](mailto\:zackeryjingle123@example.com)
+📩 **聯絡方式** 如果您對 Sunch AI Framework 有興趣，或希望獲得商業授權，請聯絡： 📧 Email: [**zackeryjingle123@example.com**](mailto\:zackeryjingle123@google.com)
 
 📢 **法律聲明**： 本技術受 Sunch AI Protection License (SAPL) 保護，任何未經授權的商業使用、專利申請或未經許可的散佈，將依法追究法律責任。 所有使用者應遵守 LICENSE 條款，違者將承擔相應法律後果。
