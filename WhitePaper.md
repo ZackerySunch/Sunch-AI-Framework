@@ -24,7 +24,7 @@
 3.3 成本比較與運行效能\
 3.4 Sunch AI 的技術優勢與市場挑戰
 
-### 第 4 章：SUNCH HUB AI 版本發展路線圖
+### 第 4 章：SUNCH AI 版本發展路線圖
 
 4.1 SUNCH AI 1.0：單機 Expert AI 運行\
 4.2 SUNCH AI 2.0：多 Expert AI 競爭與合作機制\
