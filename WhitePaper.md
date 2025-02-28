@@ -5,10 +5,10 @@
 ### 第 1 章：簡介
   
 1.1 專案背景\
-1.2 SUNCH HUB AI 使命與願景\
-1.3 SUNCH HUB AI 與現有 AI 模型的差異
+1.2 SUNCH AI 使命與願景\
+1.3 SUNCH AI 與現有 AI 模型的差異
 
-### 第 2 章：SUNCH HUB AI 技術架構
+### 第 2 章：SUNCH AI 技術架構
 
 2.1 整體架構概述\
 2.2 Decision AI（中控 AI）\
@@ -24,7 +24,7 @@
 3.3 成本比較與運行效能\
 3.4 Sunch AI 的技術優勢與市場挑戰
 
-### 第 4 章：SUNCH HUB AI 版本發展路線圖
+### 第 4 章：SUNCH AI 版本發展路線圖
 
 4.1 SUNCH AI 1.0：單機 Expert AI 運行\
 4.2 SUNCH AI 2.0：多 Expert AI 競爭與合作機制\
@@ -57,8 +57,8 @@ AI 技術發展迅速，市場上主要由 OpenAI（GPT-4o）、Google（Gemini�
 - 依賴雲端計算資源，使用者需支付昂貴的 API 費用，且可能受限於政策與存取權限。
 - 靜態知識更新，無法即時獲取最新資訊，須定期重新訓練模型。
 
-### 1.2 SUNCH HUB AI 使命與願景
-SUNCH HUB AI 的核心目標是提供一個 **低成本、高效能、本地化、可靈活擴展的 AI 方案**，透過模組化架構來解決當前 LLM 面臨的問題。我們的願景是透過 **Decision AI（中控 AI）+ Expert AI（專家 AI）+ AI 競爭機制 + RAG（檢索增強生成）**，創造比傳統 LLM 更靈活且適應性的 AI 系統。
+### 1.2 SUNCH AI 使命與願景
+SUNCH AI 的核心目標是提供一個 **低成本、高效能、本地化、可靈活擴展的 AI 方案**，透過模組化架構來解決當前 LLM 面臨的問題。我們的願景是透過 **Decision AI（中控 AI）+ Expert AI（專家 AI）+ AI 競爭機制 + RAG（檢索增強生成）**，創造比傳統 LLM 更靈活且適應性的 AI 系統。
 
 ### 1.3 與現有 AI 模型的不同之處
 - **模組化架構**：不同於單體式大模型，SUNCH HUB AI 採用 **Decision AI + Expert AI** 的架構，每個 Expert AI 可獨立處理不同類型的請求。
@@ -67,10 +67,10 @@ SUNCH HUB AI 的核心目標是提供一個 **低成本、高效能、本地化�
 
 ---
 
-## 📌 第 2 章：SUNCH HUB AI 技術架構
+## 📌 第 2 章：SUNCH AI 技術架構
 
 ### 2.1 整體架構概述
-SUNCH HUB AI 採用 **模組化 AI 架構**，結合以下技術元素：
+SUNCH AI 採用 **模組化 AI 架構**，結合以下技術元素：
 - **Decision AI（中控 AI）**：負責解析請求，選擇 Expert AI 處理，並提醒使用者需求。
 - **Expert AI（專家 AI）**：負責特定領域的處理（如程式設計、法律、醫療等）。
 - **AI 競爭與合作機制**：確保多個 Expert AI 競爭並提供最優回應。
@@ -80,7 +80,7 @@ SUNCH HUB AI 採用 **模組化 AI 架構**，結合以下技術元素：
 
 ## 📌 第 3 章：技術對比分析
 
-| 項目        | GPT-4o（OpenAI） | Google Gemini   | SUNCH HUB AI            |
+| 項目        | GPT-4o（OpenAI） | Google Gemini   | SUNCH AI            |
 | --------- | -------------- | --------------- | ----------------------- |
 | **架構**    | 單一大型模型         | 多模態大模型          | Decision AI + Expert AI |
 | **運行方式**  | 雲端 API         | 雲端運行            | 本地運行                    |
@@ -108,7 +108,7 @@ SUNCH HUB AI 採用 **模組化 AI 架構**，結合以下技術元素：
 
 ---
 
-## 📌 第 4 章：SUNCH HUB AI 版本發展路線圖
+## 📌 第 4 章：SUNCH AI 版本發展路線圖
 
 | 版本 | 開發階段 | 主要功能 |
 |------|--------|---------|
