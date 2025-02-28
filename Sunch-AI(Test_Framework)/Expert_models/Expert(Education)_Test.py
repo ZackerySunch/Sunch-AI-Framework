@@ -6,15 +6,14 @@ import json
 class Expert:
     def __init__(self):
         with open("models_port.json", "r", encoding="utf-8") as file:
-            port = json.load(file)  # 把 JSON 轉成 Python 字典
+            port = json.load(file) 
 
-        os.environ["CUDA_VISIBLE_DEVICES"] = port["Expert(Education)_Test.py"][0]  # 讓 Expert AI 只使用 GPU 1
+        os.environ["CUDA_VISIBLE_DEVICES"] = port["Expert(Education)_Test.py"][0]  
         print(f"Expert AI(Education) 運行在: {torch.cuda.get_device_name(int(port["Expert(Education)_Test.py"][0]))}")
 
-        # 初始化 ZeroMQ 通訊
         context = zmq.Context()
-        self.socket = context.socket(zmq.ROUTER)  # REP = Response
-        self.socket.bind(f"tcp://*:{port["Expert(Education)_Test.py"][1]}")  # 監聽端口，等待 Decision AI 連接
+        self.socket = context.socket(zmq.ROUTER) 
+        self.socket.bind(f"tcp://*:{port["Expert(Education)_Test.py"][1]}")  
         print(f"Expert AI(Education) TCP/IP Port : {port["Expert(Education)_Test.py"][1]}")
         print("Expert(Education) AI 啟動，等待 Decision AI 請求...")
 

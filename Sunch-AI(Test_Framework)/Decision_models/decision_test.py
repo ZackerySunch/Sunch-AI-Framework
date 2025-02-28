@@ -7,9 +7,9 @@ import threading
 class Decision_start:
     def __init__(self):
         with open("models_port.json", "r", encoding="utf-8") as file:
-            port = json.load(file)  # 把 JSON 轉成 Python 字典
+            port = json.load(file)  
         #設定初始資料
-        os.environ["CUDA_VISIBLE_DEVICES"] = port["Decision_models"][0]  # 讓 Expert AI 只使用 GPU 1
+        os.environ["CUDA_VISIBLE_DEVICES"] = port["Decision_models"][0]  
         print(f"Expert AI 運行在: {torch.cuda.get_device_name(0)}")
 
 class Decision_main:
